@@ -11,4 +11,4 @@
 
 
 #### 📫 Contacts
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jihyunniiii@gmail.com"/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jihyunniiii@gmail.com)](mailto:jihyunniiii@gmail.com)
