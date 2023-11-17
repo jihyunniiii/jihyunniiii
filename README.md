@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1 style="text-align:center"> 안녕하세요. 배지현입니다. </h1>
+  <h1 style="text-align:center"> 안녕하세요. 배쪽이입니다. </h1>
 </div>
 
 #### ⚙ Tech Stack
